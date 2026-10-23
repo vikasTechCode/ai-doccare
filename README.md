@@ -18,7 +18,7 @@ A comprehensive AI-powered healthcare management system with symptom analysis, m
 - **Frontend**: React 18 + TypeScript + Tailwind CSS
 - **Backend**: Node.js + Express + TypeScript
 - **Database**: PostgreSQL with Drizzle ORM
-- **AI Integration**: OpenAI GPT-4o
+- **AI Integration**: Gemini 3.8 Flash + Trained agent
 - **Charts**: Recharts
 - **UI Components**: shadcn/ui + Radix UI
 
@@ -27,7 +27,7 @@ A comprehensive AI-powered healthcare management system with symptom analysis, m
 ### Prerequisites
 - Node.js 18+
 - PostgreSQL database (or use provided Neon database setup)
-- OpenAI API Key
+- Gemini API Key
 
 ### Installation
 1. Extract the project files
@@ -38,7 +38,7 @@ A comprehensive AI-powered healthcare management system with symptom analysis, m
 
 3. Set up environment variables:
    - Update `.env` file with your credentials:
-     - `OPENAI_API_KEY` - Your OpenAI API key
+     - `GEMINI_API_KEY` - Your OpenAI API key
      - `DATABASE_URL` - Your PostgreSQL connection string
 
 4. Set up the database:
@@ -52,11 +52,6 @@ A comprehensive AI-powered healthcare management system with symptom analysis, m
    ```
 
 6. Open http://localhost:5000 in your browser
-
-### Default Login Credentials
-- **Patient**: Username: `patient` | Password: `password`
-- **Doctor**: Username: `doctor` | Password: `password`
-- **Admin**: Username: `admin` | Password: `password`
 
 ## Database Setup
 The application automatically creates and seeds the database with:
