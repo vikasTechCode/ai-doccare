@@ -12,13 +12,15 @@ A comprehensive AI-powered healthcare management system with symptom analysis, m
 - 📅 Appointment booking system
 - 📚 Health articles and educational content
 - 👥 Role-based access (Patient, Doctor, Admin)
+- 🧠 Machine learning-based chatbot intent classification using trained examples
 - 💾 Persistent PostgreSQL database storage
 
 ## Tech Stack
 - **Frontend**: React 18 + TypeScript + Tailwind CSS
 - **Backend**: Node.js + Express + TypeScript
 - **Database**: PostgreSQL with Drizzle ORM
-- **AI Integration**: Gemini 3.8 Flash + Trained agent
+- **AI Integration**: Gemini via the @google/genai package + Trained agent
+- Machine Learning: Natural.js with a trained intent classification model using training.json
 - **Charts**: Recharts
 - **UI Components**: shadcn/ui + Radix UI
 
@@ -38,7 +40,7 @@ A comprehensive AI-powered healthcare management system with symptom analysis, m
 
 3. Set up environment variables:
    - Update `.env` file with your credentials:
-     - `GEMINI_API_KEY` - Your OpenAI API key
+     - `GEMINI_API_KEY` - Your Gemini API key
      - `DATABASE_URL` - Your PostgreSQL connection string
 
 4. Set up the database:
@@ -89,7 +91,7 @@ The application automatically creates and seeds the database with:
 
 ## Environment Variables
 ```
-OPENAI_API_KEY=your_openai_api_key_here
+GEMINI_API_KEY=your_gemini_api_key_here
 DATABASE_URL=your_postgresql_connection_string
 NODE_ENV=development
 PORT=5000
