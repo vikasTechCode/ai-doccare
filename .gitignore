@@ -1,0 +1,25 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies and generated files
+node_modules/
+dist/
+
+# Uploaded medical records and user files
+uploads/
+
+# Git metadata and OS files
+.git/
+.DS_Store
+
+# Local configuration backups
+vite.config.ts.*
+*.tar.gz

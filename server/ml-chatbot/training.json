@@ -1,0 +1,3338 @@
+[
+ {
+  "text": "i have hives",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "pain in my belly",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "i feel feeling low",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "low bp",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "i am too thin",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "daily exercise",
+  "intent": "exercise"
+ },
+ {
+  "text": "help me with low bp",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "high blood pressure",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "suffering from is my weight normal",
+  "intent": "bmi"
+ },
+ {
+  "text": "i am very tensed",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "i have increase my weight",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "what to do for fasting sugar high",
+  "intent": "diabetes"
+ },
+ {
+  "text": "i have skin is itchy",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "help me with feeling lazy and weak",
+  "intent": "fatigue"
+ },
+ {
+  "text": "i am having how to control sugar",
+  "intent": "diabetes"
+ },
+ {
+  "text": "deep breathing",
+  "intent": "meditation"
+ },
+ {
+  "text": "diabetes",
+  "intent": "diabetes"
+ },
+ {
+  "text": "how to lose weight",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "dry cough",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "i weigh 90kg height 165cm",
+  "intent": "bmi"
+ },
+ {
+  "text": "feeling lazy and weak",
+  "intent": "fatigue"
+ },
+ {
+  "text": "please help my head hurts",
+  "intent": "headache"
+ },
+ {
+  "text": "acne",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "i feel hot and shivering",
+  "intent": "fever"
+ },
+ {
+  "text": "fasting sugar high",
+  "intent": "diabetes"
+ },
+ {
+  "text": "help me with exercise for weight loss",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "suffering from tooth pain",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "how to cure daily exercise",
+  "intent": "exercise"
+ },
+ {
+  "text": "gain muscle",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "i got exam stress",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "stress",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "how much water to drink",
+  "intent": "nutrition"
+ },
+ {
+  "text": "fever since 2 days",
+  "intent": "fever"
+ },
+ {
+  "text": "i am having period cramps relief",
+  "intent": "womens_health"
+ },
+ {
+  "text": "i have fitness tips",
+  "intent": "exercise"
+ },
+ {
+  "text": "please help feeling low",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "please help my weight is 70 kg and height 170 cm",
+  "intent": "bmi"
+ },
+ {
+  "text": "i have i sleep late",
+  "intent": "sleep"
+ },
+ {
+  "text": "i have lower back pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "i think i have head is heavy",
+  "intent": "headache"
+ },
+ {
+  "text": "i feel exam stress",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "bye",
+  "intent": "thanks"
+ },
+ {
+  "text": "suffering from cavity",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "i got yoga and meditation",
+  "intent": "meditation"
+ },
+ {
+  "text": "feeling anxious",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "suffering from chest congestion",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "suffering from best exercise",
+  "intent": "exercise"
+ },
+ {
+  "text": "what to do for nose is running",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "remedy for blocked nose",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "i feel pain in forehead",
+  "intent": "headache"
+ },
+ {
+  "text": "i think i have eyes are itching",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "i am having leg pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "please help pain in forehead",
+  "intent": "headache"
+ },
+ {
+  "text": "great thanks",
+  "intent": "thanks"
+ },
+ {
+  "text": "are you a doctor",
+  "intent": "about_bot"
+ },
+ {
+  "text": "ok thanks",
+  "intent": "thanks"
+ },
+ {
+  "text": "throat is itching",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "remedy for body is very hot",
+  "intent": "fever"
+ },
+ {
+  "text": "help me with head feels like bursting",
+  "intent": "headache"
+ },
+ {
+  "text": "shoulder pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "i am suffering from check my bmi",
+  "intent": "bmi"
+ },
+ {
+  "text": "i think i have dizziness",
+  "intent": "fatigue"
+ },
+ {
+  "text": "bp problem",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "vitamin deficiency",
+  "intent": "nutrition"
+ },
+ {
+  "text": "my dry cough",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "i feel i am too thin",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "i am suffering from cough with phlegm",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "tips for mindfulness",
+  "intent": "meditation"
+ },
+ {
+  "text": "bp 160/100",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "i think i have pimples",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "remedy for i feel dizzy",
+  "intent": "fatigue"
+ },
+ {
+  "text": "nose is running",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "cough",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "what to do for what is my body mass index",
+  "intent": "bmi"
+ },
+ {
+  "text": "namaste",
+  "intent": "greeting"
+ },
+ {
+  "text": "one side head pain",
+  "intent": "headache"
+ },
+ {
+  "text": "overthinking",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "i sleep late",
+  "intent": "sleep"
+ },
+ {
+  "text": "iron deficiency",
+  "intent": "nutrition"
+ },
+ {
+  "text": "trouble falling asleep",
+  "intent": "sleep"
+ },
+ {
+  "text": "how to cure pcos",
+  "intent": "womens_health"
+ },
+ {
+  "text": "please help bmi 32",
+  "intent": "bmi"
+ },
+ {
+  "text": "tips for heartburn",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "how to cure cough with phlegm",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "what to do for cough",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "my workout plan",
+  "intent": "exercise"
+ },
+ {
+  "text": "i am suffering from bp problem",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "my feeling very tired",
+  "intent": "fatigue"
+ },
+ {
+  "text": "cant move my neck",
+  "intent": "body_pain"
+ },
+ {
+  "text": "i think i have throat pain",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "suffering from dizziness",
+  "intent": "fatigue"
+ },
+ {
+  "text": "remedy for red eyes",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "blocked nose",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "i am having food poisoning",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "suffering from chills and fever",
+  "intent": "fever"
+ },
+ {
+  "text": "remedy for workout plan",
+  "intent": "exercise"
+ },
+ {
+  "text": "poor sleep",
+  "intent": "sleep"
+ },
+ {
+  "text": "tips for protein foods",
+  "intent": "nutrition"
+ },
+ {
+  "text": "how to sleep better",
+  "intent": "sleep"
+ },
+ {
+  "text": "i think i have no energy",
+  "intent": "fatigue"
+ },
+ {
+  "text": "i cant relax",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "what can i ask you",
+  "intent": "about_bot"
+ },
+ {
+  "text": "i think i have muscle pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "exercise for weight loss",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "body temp 39",
+  "intent": "fever"
+ },
+ {
+  "text": "red spots on skin",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "hello",
+  "intent": "greeting"
+ },
+ {
+  "text": "i am having belly hurts",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "i got cold",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "suffering from breathing exercises",
+  "intent": "meditation"
+ },
+ {
+  "text": "how to build body",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "sleeping problem",
+  "intent": "sleep"
+ },
+ {
+  "text": "neck pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "bmi value 24",
+  "intent": "bmi"
+ },
+ {
+  "text": "i am suffering from my bmi is 27",
+  "intent": "bmi"
+ },
+ {
+  "text": "i am too fat",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "how to cure i want to loose weight",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "i feel feeling nauseous",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "my periods delayed",
+  "intent": "womens_health"
+ },
+ {
+  "text": "i get tired quickly",
+  "intent": "fatigue"
+ },
+ {
+  "text": "mindfulness",
+  "intent": "meditation"
+ },
+ {
+  "text": "too skinny",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "dry skin",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "my how to sleep better",
+  "intent": "sleep"
+ },
+ {
+  "text": "i got burning in stomach",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "irregular periods",
+  "intent": "womens_health"
+ },
+ {
+  "text": "pain in my knees",
+  "intent": "body_pain"
+ },
+ {
+  "text": "am i underweight",
+  "intent": "bmi"
+ },
+ {
+  "text": "white discharge",
+  "intent": "womens_health"
+ },
+ {
+  "text": "scratchy throat",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "i am suffering from anxiety",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "how to stay fit",
+  "intent": "exercise"
+ },
+ {
+  "text": "how to cure how to lose weight",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "how to cure blood sugar 250",
+  "intent": "diabetes"
+ },
+ {
+  "text": "suffering from check my bmi",
+  "intent": "bmi"
+ },
+ {
+  "text": "mouth ulcer",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "check my bmi",
+  "intent": "bmi"
+ },
+ {
+  "text": "toothache",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "i think i have itching on skin",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "i feel bloating",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "period pain",
+  "intent": "womens_health"
+ },
+ {
+  "text": "belly hurts",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "my i want to vomit",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "i am having what is my body mass index",
+  "intent": "bmi"
+ },
+ {
+  "text": "flu",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "pimples",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "i think i have hedache",
+  "intent": "headache"
+ },
+ {
+  "text": "i feel sprain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "tips for constipation",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "i am suffering from i am underweight how to gain",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "i think i have neck pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "i have exercise for heart",
+  "intent": "exercise"
+ },
+ {
+  "text": "i think i have menstrual cramps",
+  "intent": "womens_health"
+ },
+ {
+  "text": "i got my weight is 70 kg and height 170 cm",
+  "intent": "bmi"
+ },
+ {
+  "text": "help me with i am too thin",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "remedy for allergic reaction",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "remedy for dehydration after vomiting",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "i have head is heavy",
+  "intent": "headache"
+ },
+ {
+  "text": "what to do for indigestion",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "i got tummy pain",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "i have balanced diet",
+  "intent": "nutrition"
+ },
+ {
+  "text": "i got relaxation techniques",
+  "intent": "meditation"
+ },
+ {
+  "text": "how to cure calm my mind",
+  "intent": "meditation"
+ },
+ {
+  "text": "what to do for migraine",
+  "intent": "headache"
+ },
+ {
+  "text": "i got mood swings",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "please help how to control bp",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "pcos",
+  "intent": "womens_health"
+ },
+ {
+  "text": "remedy for motions again and again",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "hoarse voice",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "i cant sleep",
+  "intent": "sleep"
+ },
+ {
+  "text": "how to meditate",
+  "intent": "meditation"
+ },
+ {
+  "text": "cramps in stomach",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "panic attack",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "reduce belly fat",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "help me with stomach pain",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "dehydration after vomiting",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "sore throat",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "hi there",
+  "intent": "greeting"
+ },
+ {
+  "text": "please help waking up at night",
+  "intent": "sleep"
+ },
+ {
+  "text": "tips for high fever",
+  "intent": "fever"
+ },
+ {
+  "text": "remedy for overthinking",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "no energy",
+  "intent": "fatigue"
+ },
+ {
+  "text": "how do you work",
+  "intent": "about_bot"
+ },
+ {
+  "text": "i am suffering from reduce belly fat",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "bmi is 18",
+  "intent": "bmi"
+ },
+ {
+  "text": "i am having cold",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "i have stretching exercises",
+  "intent": "exercise"
+ },
+ {
+  "text": "how to control bp",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "cavity",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "i have good food for health",
+  "intent": "nutrition"
+ },
+ {
+  "text": "what to do for burning body",
+  "intent": "fever"
+ },
+ {
+  "text": "pain in forehead",
+  "intent": "headache"
+ },
+ {
+  "text": "whole body aching",
+  "intent": "body_pain"
+ },
+ {
+  "text": "i think i have coughing since morning",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "i got am i underweight",
+  "intent": "bmi"
+ },
+ {
+  "text": "how much should i walk",
+  "intent": "exercise"
+ },
+ {
+  "text": "i feel thirsty and urinate often",
+  "intent": "diabetes"
+ },
+ {
+  "text": "please help sunburn",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "suffering from dizzy due to low bp",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "i got mindfulness",
+  "intent": "meditation"
+ },
+ {
+  "text": "periods delayed",
+  "intent": "womens_health"
+ },
+ {
+  "text": "remedy for stomach ache",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "dandruff",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "tips for loose motions",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "viral fever",
+  "intent": "fever"
+ },
+ {
+  "text": "increase my weight",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "help me with lower back pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "how to cure sore throat",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "back pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "i have flu",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "i am having feeling lonely",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "blood sugar 250",
+  "intent": "diabetes"
+ },
+ {
+  "text": "eyes are itching",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "i have hard to swallow",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "please help vomiting",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "help me with balanced diet",
+  "intent": "nutrition"
+ },
+ {
+  "text": "skin is itchy",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "my shoulder pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "fat loss",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "i am having watery stool",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "tips for how to lose weight",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "sunburn",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "i think i have dry cough",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "remedy for tired all day",
+  "intent": "fatigue"
+ },
+ {
+  "text": "my fasting sugar high",
+  "intent": "diabetes"
+ },
+ {
+  "text": "help me with diabetes",
+  "intent": "diabetes"
+ },
+ {
+  "text": "what should i eat",
+  "intent": "nutrition"
+ },
+ {
+  "text": "what to do for how to meditate",
+  "intent": "meditation"
+ },
+ {
+  "text": "i have i feel hot and shivering",
+  "intent": "fever"
+ },
+ {
+  "text": "calculate bmi",
+  "intent": "bmi"
+ },
+ {
+  "text": "please help hoarse voice",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "suffering from home workout",
+  "intent": "exercise"
+ },
+ {
+  "text": "vomitting",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "tips for meditation tips",
+  "intent": "meditation"
+ },
+ {
+  "text": "suffering from panic attack",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "what to do for burn fat fast",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "tips for how to stay active",
+  "intent": "exercise"
+ },
+ {
+  "text": "suffering from gas problem",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "remedy for vomitting",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "i am having feeling nauseous",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "please help gum bleeding",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "please help cramps in stomach",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "weight loss tips",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "i have sneezing a lot",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "please help poor sleep",
+  "intent": "sleep"
+ },
+ {
+  "text": "waking up at night",
+  "intent": "sleep"
+ },
+ {
+  "text": "hair fall",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "suffering from fever since 2 days",
+  "intent": "fever"
+ },
+ {
+  "text": "help me with i am very tensed",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "help",
+  "intent": "about_bot"
+ },
+ {
+  "text": "i feel i am underweight how to gain",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "suffering from muscles are sore",
+  "intent": "body_pain"
+ },
+ {
+  "text": "my how much should i walk",
+  "intent": "exercise"
+ },
+ {
+  "text": "gas problem",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "cold since 3 days",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "help me with how much water to drink",
+  "intent": "nutrition"
+ },
+ {
+  "text": "i am having runny nose",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "allergic reaction",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "tips for red spots on skin",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "i feel body mass index 29",
+  "intent": "bmi"
+ },
+ {
+  "text": "tips for bmi 32",
+  "intent": "bmi"
+ },
+ {
+  "text": "hypotension",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "i have tired all day",
+  "intent": "fatigue"
+ },
+ {
+  "text": "my feeling depressed",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "i am suffering from fevar",
+  "intent": "fever"
+ },
+ {
+  "text": "i am having red eyes",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "thermometer shows 102",
+  "intent": "fever"
+ },
+ {
+  "text": "how to cure best exercise",
+  "intent": "exercise"
+ },
+ {
+  "text": "please help cold and cough",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "workout plan",
+  "intent": "exercise"
+ },
+ {
+  "text": "good food for health",
+  "intent": "nutrition"
+ },
+ {
+  "text": "please help eye irritation",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "tooth pain",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "how to cure bmi is 18",
+  "intent": "bmi"
+ },
+ {
+  "text": "tips for weight gain diet",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "i got allergic reaction",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "feeling low",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "pain while swallowing",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "i have menstrual cramps",
+  "intent": "womens_health"
+ },
+ {
+  "text": "i got eye pain",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "i am having red spots on skin",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "hedache",
+  "intent": "headache"
+ },
+ {
+  "text": "diet to become slim",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "i am having i want to look slim",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "lower back pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "i feel sad",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "my head hurts",
+  "intent": "headache"
+ },
+ {
+  "text": "suffering from how to boost immunity",
+  "intent": "nutrition"
+ },
+ {
+  "text": "healthy eating tips",
+  "intent": "nutrition"
+ },
+ {
+  "text": "tips for one side head pain",
+  "intent": "headache"
+ },
+ {
+  "text": "i got stretching exercises",
+  "intent": "exercise"
+ },
+ {
+  "text": "eye pain",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "gastric problem",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "i am having stuffy nose",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "hey bot",
+  "intent": "greeting"
+ },
+ {
+  "text": "feeling lonely",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "too much pressure",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "tips for eye irritation",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "what to do for cold since 3 days",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "insulin",
+  "intent": "diabetes"
+ },
+ {
+  "text": "throat burning",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "suffering from trouble falling asleep",
+  "intent": "sleep"
+ },
+ {
+  "text": "what to do for relaxation techniques",
+  "intent": "meditation"
+ },
+ {
+  "text": "blood pressure 150/95",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "suffering from mouth ulcer",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "hey",
+  "intent": "greeting"
+ },
+ {
+  "text": "sneezing a lot",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "i want to loose weight",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "remedy for nose is running",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "i feel chest congestion",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "body ache",
+  "intent": "body_pain"
+ },
+ {
+  "text": "breathing exercises",
+  "intent": "meditation"
+ },
+ {
+  "text": "stomach ache",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "my i get tired quickly",
+  "intent": "fatigue"
+ },
+ {
+  "text": "skin rash",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "sprain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "help me with eyes are itching",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "how to cure panic attack",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "i have deep breathing",
+  "intent": "meditation"
+ },
+ {
+  "text": "help me with sleep less",
+  "intent": "sleep"
+ },
+ {
+  "text": "i think i have throat burning",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "help me with toothache",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "how to use this",
+  "intent": "about_bot"
+ },
+ {
+  "text": "low energy",
+  "intent": "fatigue"
+ },
+ {
+  "text": "help me with am i underweight",
+  "intent": "bmi"
+ },
+ {
+  "text": "help me with exercise for heart",
+  "intent": "exercise"
+ },
+ {
+  "text": "what to do for irregular periods",
+  "intent": "womens_health"
+ },
+ {
+  "text": "remedy for whole body aching",
+  "intent": "body_pain"
+ },
+ {
+  "text": "suffering from tummy pain",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "i have pain in my belly",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "help me with how much should i walk",
+  "intent": "exercise"
+ },
+ {
+  "text": "sleepless nights",
+  "intent": "sleep"
+ },
+ {
+  "text": "my runny nose",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "suffering from my bp is 140 over 90",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "i am having i feel hot and shivering",
+  "intent": "fever"
+ },
+ {
+  "text": "tips for daily exercise",
+  "intent": "exercise"
+ },
+ {
+  "text": "my hypertension",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "cold",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "i got hypotension",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "i feel neck pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "i am having how to control bp",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "exercise for heart",
+  "intent": "exercise"
+ },
+ {
+  "text": "what to do for pressure is low",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "remedy for sprain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "i am having blocked nose",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "tips for headache",
+  "intent": "headache"
+ },
+ {
+  "text": "red eyes",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "how to cure iron deficiency",
+  "intent": "nutrition"
+ },
+ {
+  "text": "mental health",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "suffering from i want to look slim",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "my bmi is 27",
+  "intent": "bmi"
+ },
+ {
+  "text": "help me with heavy periods",
+  "intent": "womens_health"
+ },
+ {
+  "text": "i have breathing exercises",
+  "intent": "meditation"
+ },
+ {
+  "text": "i think i have pms symptoms",
+  "intent": "womens_health"
+ },
+ {
+  "text": "feeling depressed",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "head pain",
+  "intent": "headache"
+ },
+ {
+  "text": "immunity increase",
+  "intent": "nutrition"
+ },
+ {
+  "text": "tips for skin is itchy",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "i think i have fitness tips",
+  "intent": "exercise"
+ },
+ {
+  "text": "heartburn",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "i think i have too skinny",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "how to cure how to build body",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "i think i have skin rash",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "i got i want to put on weight",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "pranayama",
+  "intent": "meditation"
+ },
+ {
+  "text": "my sugar level is high",
+  "intent": "diabetes"
+ },
+ {
+  "text": "suffering from body temp 39",
+  "intent": "fever"
+ },
+ {
+  "text": "tips for feeling feverish",
+  "intent": "fever"
+ },
+ {
+  "text": "remedy for muscles are sore",
+  "intent": "body_pain"
+ },
+ {
+  "text": "meditation tips",
+  "intent": "meditation"
+ },
+ {
+  "text": "how to cure i threw up",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "protein foods",
+  "intent": "nutrition"
+ },
+ {
+  "text": "watery stool",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "tips for dry skin",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "help me with sugar level 180",
+  "intent": "diabetes"
+ },
+ {
+  "text": "i feel how to control sugar",
+  "intent": "diabetes"
+ },
+ {
+  "text": "sugar level 180",
+  "intent": "diabetes"
+ },
+ {
+  "text": "i have viral fever",
+  "intent": "fever"
+ },
+ {
+  "text": "please help i sleep late",
+  "intent": "sleep"
+ },
+ {
+  "text": "how to stay active",
+  "intent": "exercise"
+ },
+ {
+  "text": "i have i want to vomit",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "i feel yoga for beginners",
+  "intent": "exercise"
+ },
+ {
+  "text": "i think i have scratchy throat",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "suffering from diabetic diet",
+  "intent": "diabetes"
+ },
+ {
+  "text": "stretching exercises",
+  "intent": "exercise"
+ },
+ {
+  "text": "diarrhea",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "help me with throat burning",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "how to cure pain in my knees",
+  "intent": "body_pain"
+ },
+ {
+  "text": "mood swings",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "period cramps relief",
+  "intent": "womens_health"
+ },
+ {
+  "text": "cough with phlegm",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "balanced diet",
+  "intent": "nutrition"
+ },
+ {
+  "text": "i feel vitamin deficiency",
+  "intent": "nutrition"
+ },
+ {
+  "text": "what to do for protein foods",
+  "intent": "nutrition"
+ },
+ {
+  "text": "i got watery stool",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "i think i have tooth pain",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "remedy for my head hurts",
+  "intent": "headache"
+ },
+ {
+  "text": "help me with waking up at night",
+  "intent": "sleep"
+ },
+ {
+  "text": "help me with watery eyes",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "i am suffering from vitamin deficiency",
+  "intent": "nutrition"
+ },
+ {
+  "text": "hypertension",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "i threw up",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "i have high blood sugar",
+  "intent": "diabetes"
+ },
+ {
+  "text": "constipation",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "i think i have calm my mind",
+  "intent": "meditation"
+ },
+ {
+  "text": "thank you so much",
+  "intent": "thanks"
+ },
+ {
+  "text": "what to do for insulin",
+  "intent": "diabetes"
+ },
+ {
+  "text": "i have tonsils pain",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "i think i have back pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "i got stomach is upset",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "my vomiting",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "my diarrhea",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "sleep less",
+  "intent": "sleep"
+ },
+ {
+  "text": "how to reduce weight",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "i am suffering from i want to put on weight",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "burning body",
+  "intent": "fever"
+ },
+ {
+  "text": "i have joint pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "i have gum bleeding",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "hi",
+  "intent": "greeting"
+ },
+ {
+  "text": "i got too much pressure",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "i am having is my weight normal",
+  "intent": "bmi"
+ },
+ {
+  "text": "hard to swallow",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "i got gas problem",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "i am suffering from pain while swallowing",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "pressure is low",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "runny nose",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "insomnia",
+  "intent": "sleep"
+ },
+ {
+  "text": "i am suffering from gastric problem",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "my not getting sleep",
+  "intent": "sleep"
+ },
+ {
+  "text": "please help muscle pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "burn fat fast",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "i feel healthy eating tips",
+  "intent": "nutrition"
+ },
+ {
+  "text": "i am suffering from burning body",
+  "intent": "fever"
+ },
+ {
+  "text": "my sleep less",
+  "intent": "sleep"
+ },
+ {
+  "text": "my temperature is high",
+  "intent": "fever"
+ },
+ {
+  "text": "what to do for how to stay fit",
+  "intent": "exercise"
+ },
+ {
+  "text": "bp is high",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "i have allergy",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "my cavity",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "suffering from severe headache",
+  "intent": "headache"
+ },
+ {
+  "text": "fever",
+  "intent": "fever"
+ },
+ {
+  "text": "i have diarrhea",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "dizzy due to low bp",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "i got pcos",
+  "intent": "womens_health"
+ },
+ {
+  "text": "please help my sugar level is high",
+  "intent": "diabetes"
+ },
+ {
+  "text": "home workout",
+  "intent": "exercise"
+ },
+ {
+  "text": "i got whole body aching",
+  "intent": "body_pain"
+ },
+ {
+  "text": "please help mouth ulcer",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "how to cure bp 160/100",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "how to cure throat infection",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "itching on skin",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "bulk up",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "please help foods for energy",
+  "intent": "nutrition"
+ },
+ {
+  "text": "cold and cough",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "i feel pain in my belly",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "i have weight loss tips",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "i am having sleepless nights",
+  "intent": "sleep"
+ },
+ {
+  "text": "i have periods delayed",
+  "intent": "womens_health"
+ },
+ {
+  "text": "head is heavy",
+  "intent": "headache"
+ },
+ {
+  "text": "my bp 160/100",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "tips for head feels like bursting",
+  "intent": "headache"
+ },
+ {
+  "text": "suffering from high blood sugar",
+  "intent": "diabetes"
+ },
+ {
+  "text": "i got am i overweight",
+  "intent": "bmi"
+ },
+ {
+  "text": "please help immunity increase",
+  "intent": "nutrition"
+ },
+ {
+  "text": "tips for stomach ache",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "throat pain",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "dizziness",
+  "intent": "fatigue"
+ },
+ {
+  "text": "head is paining",
+  "intent": "headache"
+ },
+ {
+  "text": "how to cure fever",
+  "intent": "fever"
+ },
+ {
+  "text": "feeling very tired",
+  "intent": "fatigue"
+ },
+ {
+  "text": "remedy for am i overweight",
+  "intent": "bmi"
+ },
+ {
+  "text": "i think i have trouble falling asleep",
+  "intent": "sleep"
+ },
+ {
+  "text": "help me with indigestion",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "i think i have bmi value 24",
+  "intent": "bmi"
+ },
+ {
+  "text": "i think i have period pain",
+  "intent": "womens_health"
+ },
+ {
+  "text": "my bp is 140 over 90",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "feeling nauseous",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "exam stress",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "loose motions",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "sugar patient",
+  "intent": "diabetes"
+ },
+ {
+  "text": "i got too much sleeping",
+  "intent": "sleep"
+ },
+ {
+  "text": "tummy pain",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "anxiety",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "see you",
+  "intent": "thanks"
+ },
+ {
+  "text": "tired all day",
+  "intent": "fatigue"
+ },
+ {
+  "text": "i am suffering from blood sugar 250",
+  "intent": "diabetes"
+ },
+ {
+  "text": "motions again and again",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "i have bulk up",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "joint pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "i got i cant relax",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "remedy for head pain",
+  "intent": "headache"
+ },
+ {
+  "text": "please help high blood pressure",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "how to cure caugh",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "how to boost immunity",
+  "intent": "nutrition"
+ },
+ {
+  "text": "i think i have feeling lonely",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "i got anxiety",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "remedy for weight loss tips",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "i have bad breath",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "what to do for hoarse voice",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "high fever",
+  "intent": "fever"
+ },
+ {
+  "text": "i got thermometer shows 102",
+  "intent": "fever"
+ },
+ {
+  "text": "i am suffering from stomach pain",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "watery eyes",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "what to do for feeling depressed",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "i got leg pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "pre diabetes",
+  "intent": "diabetes"
+ },
+ {
+  "text": "i have chills and fever",
+  "intent": "fever"
+ },
+ {
+  "text": "head feels like bursting",
+  "intent": "headache"
+ },
+ {
+  "text": "help me with fatigue",
+  "intent": "fatigue"
+ },
+ {
+  "text": "i am having head is paining",
+  "intent": "headache"
+ },
+ {
+  "text": "feeling weak after waking up",
+  "intent": "fatigue"
+ },
+ {
+  "text": "i want to put on weight",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "weakness",
+  "intent": "fatigue"
+ },
+ {
+  "text": "blurry vision",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "i am suffering from acne",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "i am underweight how to gain",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "fitness tips",
+  "intent": "exercise"
+ },
+ {
+  "text": "i have fevar",
+  "intent": "fever"
+ },
+ {
+  "text": "tips for pressure is low",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "i am having body pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "remedy for always exhausted",
+  "intent": "fatigue"
+ },
+ {
+  "text": "i have bmi is 18",
+  "intent": "bmi"
+ },
+ {
+  "text": "tips for nausea",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "i feel acne",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "caugh",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "how to cure throat is itching",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "what to do for headache",
+  "intent": "headache"
+ },
+ {
+  "text": "how to cure burn fat fast",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "remedy for low energy",
+  "intent": "fatigue"
+ },
+ {
+  "text": "i feel head is paining",
+  "intent": "headache"
+ },
+ {
+  "text": "i got rashes on my arm",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "what to do for coughing since morning",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "suffering from cant move my neck",
+  "intent": "body_pain"
+ },
+ {
+  "text": "what to do for how to boost immunity",
+  "intent": "nutrition"
+ },
+ {
+  "text": "my period cramps relief",
+  "intent": "womens_health"
+ },
+ {
+  "text": "stuffy nose",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "thanks a lot",
+  "intent": "thanks"
+ },
+ {
+  "text": "i got too skinny",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "i feel high blood pressure",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "i think i have bp problem",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "how to cure stomach is upset",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "indigestion",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "muscles are sore",
+  "intent": "body_pain"
+ },
+ {
+  "text": "i got tension headache",
+  "intent": "headache"
+ },
+ {
+  "text": "suffering from pranayama",
+  "intent": "meditation"
+ },
+ {
+  "text": "my reduce belly fat",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "help me with gain muscle",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "my dizzy due to low bp",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "my calculate bmi",
+  "intent": "bmi"
+ },
+ {
+  "text": "i have cold since 3 days",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "i am suffering from viral fever",
+  "intent": "fever"
+ },
+ {
+  "text": "who are you",
+  "intent": "about_bot"
+ },
+ {
+  "text": "ok bye",
+  "intent": "thanks"
+ },
+ {
+  "text": "i want to look slim",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "fevar",
+  "intent": "fever"
+ },
+ {
+  "text": "relaxation techniques",
+  "intent": "meditation"
+ },
+ {
+  "text": "body is very hot",
+  "intent": "fever"
+ },
+ {
+  "text": "goodbye",
+  "intent": "thanks"
+ },
+ {
+  "text": "tips for i am too fat",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "how to cure diet to become slim",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "how to focus better",
+  "intent": "meditation"
+ },
+ {
+  "text": "help me with not getting sleep",
+  "intent": "sleep"
+ },
+ {
+  "text": "i am having feeling weak after waking up",
+  "intent": "fatigue"
+ },
+ {
+  "text": "always exhausted",
+  "intent": "fatigue"
+ },
+ {
+  "text": "i feel sore throat",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "leg pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "help me with bp is high",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "i got sugar level 180",
+  "intent": "diabetes"
+ },
+ {
+  "text": "my migraine",
+  "intent": "headache"
+ },
+ {
+  "text": "pregnancy tips",
+  "intent": "womens_health"
+ },
+ {
+  "text": "rashes on my arm",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "my i feel thirsty and urinate often",
+  "intent": "diabetes"
+ },
+ {
+  "text": "chest congestion",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "i have watery eyes",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "please help low energy",
+  "intent": "fatigue"
+ },
+ {
+  "text": "what to do for heavy periods",
+  "intent": "womens_health"
+ },
+ {
+  "text": "good evening",
+  "intent": "greeting"
+ },
+ {
+  "text": "anyone there",
+  "intent": "greeting"
+ },
+ {
+  "text": "my weight is 70 kg and height 170 cm",
+  "intent": "bmi"
+ },
+ {
+  "text": "i think i have insomnia",
+  "intent": "sleep"
+ },
+ {
+  "text": "i am having my bmi is 27",
+  "intent": "bmi"
+ },
+ {
+  "text": "my temperature is 101",
+  "intent": "fever"
+ },
+ {
+  "text": "food poisoning",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "i think i have fatigue",
+  "intent": "fatigue"
+ },
+ {
+  "text": "too much sleeping",
+  "intent": "sleep"
+ },
+ {
+  "text": "i got how to focus better",
+  "intent": "meditation"
+ },
+ {
+  "text": "i got stress",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "tonsils pain",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "remedy for healthy diet",
+  "intent": "nutrition"
+ },
+ {
+  "text": "i am suffering from too much pressure",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "i want to vomit",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "hello doctor",
+  "intent": "greeting"
+ },
+ {
+  "text": "tips for weakness",
+  "intent": "fatigue"
+ },
+ {
+  "text": "i think i have dehydration after vomiting",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "healthy diet",
+  "intent": "nutrition"
+ },
+ {
+  "text": "remedy for gastric problem",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "i have exercise for weight loss",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "good morning",
+  "intent": "greeting"
+ },
+ {
+  "text": "please help overthinking",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "help me with increase my weight",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "body pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "calm my mind",
+  "intent": "meditation"
+ },
+ {
+  "text": "heavy periods",
+  "intent": "womens_health"
+ },
+ {
+  "text": "i feel i feel thirsty and urinate often",
+  "intent": "diabetes"
+ },
+ {
+  "text": "what to do for body ache",
+  "intent": "body_pain"
+ },
+ {
+  "text": "good afternoon",
+  "intent": "greeting"
+ },
+ {
+  "text": "stomach pain",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "i think i have belly hurts",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "bad breath",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "i think i have white discharge",
+  "intent": "womens_health"
+ },
+ {
+  "text": "remedy for iron deficiency",
+  "intent": "nutrition"
+ },
+ {
+  "text": "how to control sugar",
+  "intent": "diabetes"
+ },
+ {
+  "text": "my skin rash",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "muscle pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "tips for period pain",
+  "intent": "womens_health"
+ },
+ {
+  "text": "fatigue",
+  "intent": "fatigue"
+ },
+ {
+  "text": "suffering from weakness",
+  "intent": "fatigue"
+ },
+ {
+  "text": "i think i have rashes on my arm",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "remedy for allergy",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "i am having i am stressed",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "what is my body mass index",
+  "intent": "bmi"
+ },
+ {
+  "text": "i have how to build body",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "burning in stomach",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "i got severe headache",
+  "intent": "headache"
+ },
+ {
+  "text": "i got what should i eat",
+  "intent": "nutrition"
+ },
+ {
+  "text": "yoga and meditation",
+  "intent": "meditation"
+ },
+ {
+  "text": "i got pregnancy tips",
+  "intent": "womens_health"
+ },
+ {
+  "text": "i got hair fall",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "suffering from acidity",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "help me with pms symptoms",
+  "intent": "womens_health"
+ },
+ {
+  "text": "is my weight normal",
+  "intent": "bmi"
+ },
+ {
+  "text": "please help caugh",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "i got throat pain",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "help me with vomitting",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "that helped",
+  "intent": "thanks"
+ },
+ {
+  "text": "foods for energy",
+  "intent": "nutrition"
+ },
+ {
+  "text": "i have calculate bmi",
+  "intent": "bmi"
+ },
+ {
+  "text": "i got fever",
+  "intent": "fever"
+ },
+ {
+  "text": "gum bleeding",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "please help too much sleeping",
+  "intent": "sleep"
+ },
+ {
+  "text": "nausea",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "pms symptoms",
+  "intent": "womens_health"
+ },
+ {
+  "text": "remedy for bp is high",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "please help fat loss",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "my no energy",
+  "intent": "fatigue"
+ },
+ {
+  "text": "suffering from feeling very tired",
+  "intent": "fatigue"
+ },
+ {
+  "text": "acidity",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "what is your name",
+  "intent": "about_bot"
+ },
+ {
+  "text": "coughing since morning",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "remedy for throat infection",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "how to cure hives",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "i feel cough",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "how to cure i get tired quickly",
+  "intent": "fatigue"
+ },
+ {
+  "text": "i am having how to reduce weight",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "not getting sleep",
+  "intent": "sleep"
+ },
+ {
+  "text": "thanks",
+  "intent": "thanks"
+ },
+ {
+  "text": "best exercise",
+  "intent": "exercise"
+ },
+ {
+  "text": "am i overweight",
+  "intent": "bmi"
+ },
+ {
+  "text": "i am suffering from body mass index 29",
+  "intent": "bmi"
+ },
+ {
+  "text": "suffering from flu",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "i am having insomnia",
+  "intent": "sleep"
+ },
+ {
+  "text": "suffering from feeling weak after waking up",
+  "intent": "fatigue"
+ },
+ {
+  "text": "thank you",
+  "intent": "thanks"
+ },
+ {
+  "text": "chills and fever",
+  "intent": "fever"
+ },
+ {
+  "text": "i got nausea",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "severe headache",
+  "intent": "headache"
+ },
+ {
+  "text": "body mass index 29",
+  "intent": "bmi"
+ },
+ {
+  "text": "my feeling anxious",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "i got mental health",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "i am having body temp 39",
+  "intent": "fever"
+ },
+ {
+  "text": "i am suffering from i feel sad",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "i am suffering from tension headache",
+  "intent": "headache"
+ },
+ {
+  "text": "help me with i feel sad",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "how to cure i cant sleep",
+  "intent": "sleep"
+ },
+ {
+  "text": "i am stressed",
+  "intent": "stress_anxiety"
+ },
+ {
+  "text": "i feel i weigh 90kg height 165cm",
+  "intent": "bmi"
+ },
+ {
+  "text": "stomach is upset",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "please help dry skin",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "suffering from i weigh 90kg height 165cm",
+  "intent": "bmi"
+ },
+ {
+  "text": "i have how to reduce weight",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "diabetic diet",
+  "intent": "diabetes"
+ },
+ {
+  "text": "i am suffering from my temperature is 101",
+  "intent": "fever"
+ },
+ {
+  "text": "bloating",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "temperature is high",
+  "intent": "fever"
+ },
+ {
+  "text": "bmi 32",
+  "intent": "bmi"
+ },
+ {
+  "text": "i have diabetes",
+  "intent": "diabetes"
+ },
+ {
+  "text": "help me with pre diabetes",
+  "intent": "diabetes"
+ },
+ {
+  "text": "help me with pain in my knees",
+  "intent": "body_pain"
+ },
+ {
+  "text": "how to cure how to sleep better",
+  "intent": "sleep"
+ },
+ {
+  "text": "tension headache",
+  "intent": "headache"
+ },
+ {
+  "text": "i feel dandruff",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "i am having sugar patient",
+  "intent": "diabetes"
+ },
+ {
+  "text": "eye irritation",
+  "intent": "eye_dental"
+ },
+ {
+  "text": "i am suffering from how to focus better",
+  "intent": "meditation"
+ },
+ {
+  "text": "headache",
+  "intent": "headache"
+ },
+ {
+  "text": "suffering from sleeping problem",
+  "intent": "sleep"
+ },
+ {
+  "text": "my i feel dizzy",
+  "intent": "fatigue"
+ },
+ {
+  "text": "i think i have my bp is 140 over 90",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "i think i have bloating",
+  "intent": "stomach_pain"
+ },
+ {
+  "text": "please help scratchy throat",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "yoga for beginners",
+  "intent": "exercise"
+ },
+ {
+  "text": "i am suffering from stuffy nose",
+  "intent": "cold_cough"
+ },
+ {
+  "text": "how to cure cant move my neck",
+  "intent": "body_pain"
+ },
+ {
+  "text": "what to do for joint pain",
+  "intent": "body_pain"
+ },
+ {
+  "text": "tips for bmi value 24",
+  "intent": "bmi"
+ },
+ {
+  "text": "i feel dizzy",
+  "intent": "fatigue"
+ },
+ {
+  "text": "remedy for i want to loose weight",
+  "intent": "weight_loss"
+ },
+ {
+  "text": "help me with sugar patient",
+  "intent": "diabetes"
+ },
+ {
+  "text": "i have throat is itching",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "help me with how to gain weight",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "hives",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "feeling feverish",
+  "intent": "fever"
+ },
+ {
+  "text": "weight gain diet",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "throat infection",
+  "intent": "sore_throat"
+ },
+ {
+  "text": "allergy",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "vomiting",
+  "intent": "diarrhea_vomiting"
+ },
+ {
+  "text": "help me with foods for energy",
+  "intent": "nutrition"
+ },
+ {
+  "text": "migraine",
+  "intent": "headache"
+ },
+ {
+  "text": "what can you do",
+  "intent": "about_bot"
+ },
+ {
+  "text": "how to gain weight",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "help me with weight gain diet",
+  "intent": "weight_gain"
+ },
+ {
+  "text": "my pimples",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "tips for hypotension",
+  "intent": "blood_pressure"
+ },
+ {
+  "text": "i got sunburn",
+  "intent": "skin_allergy"
+ },
+ {
+  "text": "high blood sugar",
+  "intent": "diabetes"
+ },
+ {
+  "text": "menstrual cramps",
+  "intent": "womens_health"
+ },
+ {
+  "text": "give me a weight loss diet plan",
+  "intent": "weight_loss"
+},
+{
+  "text": "what should I eat to lose weight",
+  "intent": "weight_loss"
+},
+{
+  "text": "give me a full diet chart",
+  "intent": "weight_loss"
+},
+{
+    "text": "please suggest a healthy weight loss meal plan",
+    "intent": "weight_loss"
+  },
+  {
+    "text": "make me a weekly diet plan for losing weight",
+    "intent": "weight_loss"
+  },
+  {
+    "text": "indian food diet chart for weight loss",
+    "intent": "weight_loss"
+  },
+  {
+    "text": "what is a good breakfast for weight loss",
+    "intent": "weight_loss"
+  },
+  {
+    "text": "how can i lose weight in a healthy way",
+    "intent": "weight_loss"
+  },
+  {
+    "text": "suggest a balanced diet for weight loss",
+    "intent": "weight_loss"
+  },
+  {
+    "text": "foods that help me gain healthy weight",
+    "intent": "weight_gain"
+  },
+  {
+    "text": "make a diet chart for weight gain",
+    "intent": "weight_gain"
+  },
+  {
+    "text": "what should i eat to gain muscle",
+    "intent": "weight_gain"
+  },
+  {
+    "text": "healthy foods to increase body weight",
+    "intent": "weight_gain"
+  },
+  {
+    "text": "i want a high calorie nutritious diet",
+    "intent": "weight_gain"
+  },
+  {
+    "text": "suggest a meal plan for gaining weight",
+    "intent": "weight_gain"
+  },
+  {
+    "text": "give me a daily nutrition plan",
+    "intent": "nutrition"
+  },
+  {
+    "text": "how can i eat a balanced diet every day",
+    "intent": "nutrition"
+  },
+  {
+    "text": "suggest healthy indian meals",
+    "intent": "nutrition"
+  },
+  {
+    "text": "what foods contain protein and iron",
+    "intent": "nutrition"
+  },
+  {
+    "text": "how can i improve my eating habits",
+    "intent": "nutrition"
+  },
+  {
+    "text": "foods to improve energy naturally",
+    "intent": "nutrition"
+  },
+  {
+    "text": "how much protein do i need daily",
+    "intent": "nutrition"
+  },
+  {
+    "text": "healthy meal plan for everyday life",
+    "intent": "nutrition"
+  },
+  {
+    "text": "suggest a diet for high blood sugar",
+    "intent": "diabetes"
+  },
+  {
+    "text": "what foods should diabetics avoid",
+    "intent": "diabetes"
+  },
+  {
+    "text": "meal plan for someone with diabetes",
+    "intent": "diabetes"
+  },
+  {
+    "text": "how can i manage my sugar levels",
+    "intent": "diabetes"
+  },
+  {
+    "text": "my glucose reading is high",
+    "intent": "diabetes"
+  },
+  {
+    "text": "what can i eat if i have diabetes",
+    "intent": "diabetes"
+  },
+  {
+    "text": "diet tips for managing hypertension",
+    "intent": "blood_pressure"
+  },
+  {
+    "text": "how can i keep my blood pressure healthy",
+    "intent": "blood_pressure"
+  },
+  {
+    "text": "my blood pressure reading is high",
+    "intent": "blood_pressure"
+  },
+  {
+    "text": "foods to avoid with high bp",
+    "intent": "blood_pressure"
+  },
+  {
+    "text": "what should i do about low blood pressure",
+    "intent": "blood_pressure"
+  },
+  {
+    "text": "i feel weak and my bp is low",
+    "intent": "blood_pressure"
+  },
+  {
+    "text": "calculate my body mass index",
+    "intent": "bmi"
+  },
+  {
+    "text": "am i at a healthy weight for my height",
+    "intent": "bmi"
+  },
+  {
+    "text": "can you calculate bmi from height and weight",
+    "intent": "bmi"
+  },
+  {
+    "text": "what does my bmi number mean",
+    "intent": "bmi"
+  },
+  {
+    "text": "i want to know if i am overweight",
+    "intent": "bmi"
+  },
+  {
+    "text": "my throat hurts when i swallow",
+    "intent": "sore_throat"
+  },
+  {
+    "text": "my throat feels dry and scratchy",
+    "intent": "sore_throat"
+  },
+  {
+    "text": "my voice has become hoarse",
+    "intent": "sore_throat"
+  },
+  {
+    "text": "it hurts when i swallow food",
+    "intent": "sore_throat"
+  },
+  {
+    "text": "what can soothe an irritated throat",
+    "intent": "sore_throat"
+  },
+  {
+    "text": "i have pain and irritation in my throat",
+    "intent": "sore_throat"
+  },
+  {
+    "text": "my stomach hurts after eating",
+    "intent": "stomach_pain"
+  },
+  {
+    "text": "i have stomach cramps and bloating",
+    "intent": "stomach_pain"
+  },
+  {
+    "text": "what should i do for indigestion",
+    "intent": "stomach_pain"
+  },
+  {
+    "text": "i have acidity after meals",
+    "intent": "stomach_pain"
+  },
+  {
+    "text": "my stomach feels uncomfortable",
+    "intent": "stomach_pain"
+  },
+  {
+    "text": "i have abdominal discomfort",
+    "intent": "stomach_pain"
+  },
+  {
+    "text": "i have loose stools and vomiting",
+    "intent": "diarrhea_vomiting"
+  },
+  {
+    "text": "how can i prevent dehydration from diarrhea",
+    "intent": "diarrhea_vomiting"
+  },
+  {
+    "text": "i keep throwing up after eating",
+    "intent": "diarrhea_vomiting"
+  },
+  {
+    "text": "what should i drink when i have diarrhea",
+    "intent": "diarrhea_vomiting"
+  },
+  {
+    "text": "i feel sick and nauseated",
+    "intent": "diarrhea_vomiting"
+  },
+  {
+    "text": "i have frequent watery bowel movements",
+    "intent": "diarrhea_vomiting"
+  },
+  {
+    "text": "my whole body feels sore",
+    "intent": "body_pain"
+  },
+  {
+    "text": "i have pain in my muscles after exercise",
+    "intent": "body_pain"
+  },
+  {
+    "text": "my back and shoulders are aching",
+    "intent": "body_pain"
+  },
+  {
+    "text": "what can i do for joint stiffness",
+    "intent": "body_pain"
+  },
+  {
+    "text": "my body hurts for no clear reason",
+    "intent": "body_pain"
+  },
+  {
+    "text": "i feel tired even after sleeping",
+    "intent": "fatigue"
+  },
+  {
+    "text": "i have been feeling exhausted lately",
+    "intent": "fatigue"
+  },
+  {
+    "text": "why do i have low energy every day",
+    "intent": "fatigue"
+  },
+  {
+    "text": "i feel weak throughout the day",
+    "intent": "fatigue"
+  },
+  {
+    "text": "i get tired doing simple activities",
+    "intent": "fatigue"
+  },
+  {
+    "text": "my skin has an itchy red rash",
+    "intent": "skin_allergy"
+  },
+  {
+    "text": "i have an allergic skin reaction",
+    "intent": "skin_allergy"
+  },
+  {
+    "text": "my skin becomes itchy after using a cream",
+    "intent": "skin_allergy"
+  },
+  {
+    "text": "how can i soothe itchy skin",
+    "intent": "skin_allergy"
+  },
+  {
+    "text": "i have hives and skin irritation",
+    "intent": "skin_allergy"
+  },
+  {
+    "text": "my skin is irritated and red",
+    "intent": "skin_allergy"
+  },
+  {
+    "text": "i feel nervous and cannot relax",
+    "intent": "stress_anxiety"
+  },
+  {
+    "text": "i am worried all the time",
+    "intent": "stress_anxiety"
+  },
+  {
+    "text": "how can i manage everyday stress",
+    "intent": "stress_anxiety"
+  },
+  {
+    "text": "i feel overwhelmed by my problems",
+    "intent": "stress_anxiety"
+  },
+  {
+    "text": "i am having anxiety before an exam",
+    "intent": "stress_anxiety"
+  },
+  {
+    "text": "my mind keeps overthinking at night",
+    "intent": "stress_anxiety"
+  },
+  {
+    "text": "i wake up several times during the night",
+    "intent": "sleep"
+  },
+  {
+    "text": "how can i improve my sleep routine",
+    "intent": "sleep"
+  },
+  {
+    "text": "i have difficulty falling asleep",
+    "intent": "sleep"
+  },
+  {
+    "text": "i do not feel rested after sleeping",
+    "intent": "sleep"
+  },
+  {
+    "text": "my sleeping schedule is irregular",
+    "intent": "sleep"
+  },
+  {
+    "text": "give me a simple home exercise routine",
+    "intent": "exercise"
+  },
+  {
+    "text": "beginner workout for better fitness",
+    "intent": "exercise"
+  },
+  {
+    "text": "how can i become more physically active",
+    "intent": "exercise"
+  },
+  {
+    "text": "suggest some stretching exercises",
+    "intent": "exercise"
+  },
+  {
+    "text": "how many minutes should i exercise daily",
+    "intent": "exercise"
+  },
+  {
+    "text": "exercises to improve flexibility",
+    "intent": "exercise"
+  },
+  {
+    "text": "teach me a simple breathing exercise",
+    "intent": "meditation"
+  },
+  {
+    "text": "how do i practise mindfulness",
+    "intent": "meditation"
+  },
+  {
+    "text": "i want to calm my thoughts",
+    "intent": "meditation"
+  },
+  {
+    "text": "relaxation exercises for a busy mind",
+    "intent": "meditation"
+  },
+  {
+    "text": "help me start meditating daily",
+    "intent": "meditation"
+  },
+  {
+    "text": "what should i do for tooth sensitivity",
+    "intent": "eye_dental"
+  },
+  {
+    "text": "my gums bleed when brushing",
+    "intent": "eye_dental"
+  },
+  {
+    "text": "i have irritation in my eyes",
+    "intent": "eye_dental"
+  },
+  {
+    "text": "how should i take care of my teeth",
+    "intent": "eye_dental"
+  },
+  {
+    "text": "my eyes are red and watery",
+    "intent": "eye_dental"
+  },
+  {
+    "text": "how can i maintain good oral hygiene",
+    "intent": "eye_dental"
+  },
+  {
+    "text": "i have irregular menstrual cycles",
+    "intent": "womens_health"
+  },
+  {
+    "text": "what can help with period cramps",
+    "intent": "womens_health"
+  },
+  {
+    "text": "i am worried about a change in my period",
+    "intent": "womens_health"
+  },
+  {
+    "text": "what are general pcos health tips",
+    "intent": "womens_health"
+  },
+  {
+    "text": "how can i track my menstrual cycle",
+    "intent": "womens_health"
+  },
+  {
+    "text": "i have questions about women's health",
+    "intent": "womens_health"
+  }
+]
